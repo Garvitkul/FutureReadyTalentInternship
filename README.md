@@ -1,4 +1,4 @@
-<h2> We have a detailed article published on ElectronicWings of this project. </h2>
+<h2> We have a detailed article published on [ElectronicWings](https://www.electronicwings.com/users/anujkul72/projects/1935/temperature-and-humidity-monitoring-using-azure-iot-hub) of this project.</h2>
 
 **We are using Azure IoT Hub to fetch the data of the Humidity and Temperature from the Raspberry Pi Client to Azure Portal**
 
