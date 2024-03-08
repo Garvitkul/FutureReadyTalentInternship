@@ -25,4 +25,5 @@ Microsoft's Azure IoT Hub cloud computing solution allows developers to connect,
 4. azure-iothub-device-client
 
 **Video Tutorial**
-https://youtu.be/ugke8TQjrK8
+[YouTube](https://youtu.be/ugke8TQjrK8) <img src="https://github.com/Garvitkul/Garvitkul/assets/83578615/27c1eba6-9656-4b74-865b-936042607c62" width="2%">
+
