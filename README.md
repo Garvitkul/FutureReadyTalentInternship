@@ -1,3 +1,5 @@
+<h2> We have a detailed article published on ElectronicWings of this project. </h2>
+
 **We are using Azure IoT Hub to fetch the data of the Humidity and Temperature from the Raspberry Pi Client to Azure Portal**
 
 It allows you to communicate  with your device without much coding in the portal.
